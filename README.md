@@ -5,6 +5,7 @@
 関数の「呼び出し直前」と「処理完了後」にログ出力がしたい場合、何かいい方法がないか？と調べたところ、
 組み込み機能の[Proxy](https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Global_Objects/Proxy)でできることがわかりました
 
+https://github.com/murasuke/js_method_proxy
 
 ## Proxyとは
 
